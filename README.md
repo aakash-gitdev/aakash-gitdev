@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some web development open source project.
 - 📫 How to reach me 
 My email id- "akku18tiwari@gmail.com".
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-gitdev&theme=blue-green)
 
 <!---
 aakash-gitdev/aakash-gitdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
