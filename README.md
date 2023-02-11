@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aakash-gitdev
 - 👀 I’m interested in Competitive programming and web development.
-- 🌱 I’m currently learning Typescript,ES6 and ReactJS.
-- 💞️ I’m looking to collaborate on some web development open source project.
-- 📫 How to reach me 
-My email id- "akku18tiwari@gmail.com".
+- 🌱 I’m currently learning linux and networking.
+- 💞️ I’m looking forward to collaborate on some web development open source project.
+- 📫 How to reach me - 
+my email id- "akku18tiwari@gmail.com".
 
 
 
