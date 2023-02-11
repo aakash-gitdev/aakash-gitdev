@@ -8,8 +8,8 @@ My email id- "akku18tiwari@gmail.com".
 
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aakash-gitdev&show_icons=true&theme=blue-violet)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-gitdev&theme=blue-violet)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aakash-gitdev&show_icons=true&theme=violet-black)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-gitdev&theme=violet-black)
 
 <!---
 aakash-gitdev/aakash-gitdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
