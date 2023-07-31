@@ -8,6 +8,7 @@ my email id- "akku18tiwari@gmail.com".
 
 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aakash-gitdev&show_icons=true&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-gitdev&theme=blue-green)
 
