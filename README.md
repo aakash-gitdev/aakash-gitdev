@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aakash-gitdev
-- 👀 I’m interested in Competitive programming and web development.
+- 👀 I’m interested in Competitive programming and machine learning
 - 🌱 I’m currently learning linux and networking.
 - 💞️ I’m looking forward to collaborate on some web development open source project.
 - 📫 How to reach me - 
